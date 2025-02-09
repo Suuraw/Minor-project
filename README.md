@@ -9,7 +9,13 @@ We had a group meeting to discuss potential minor project ideas and came up with
 ### 1. ATS Optimization and Automated Form Filling  
 
 **Overview:**  
-The recruitment process often involves manually filling out forms, which is tedious and prone to errors. Many resumes do not pass ATS (Applicant Tracking System) filters, reducing selection chances.  
+The recruitment process often requires candidates to manually fill out multiple job application forms, which is both time-consuming and prone to errors. Additionally, many resumes fail to align with job descriptions, reducing their chances of passing ATS (Applicant Tracking System) filters.  
+
+## Our Solution  
+Our solution aims to address two key challenges:  
+
+- **Automating form filling** – The user needs to enter their details once, after which they can simply drop multiple Google Form links, and the system will auto-fill the required fields.  
+- **Enhancing resume effectiveness** – The system will analyze the resume and suggest improvements to optimize ATS compatibility, ensuring better alignment with job descriptions.  
 
 **Plan:**  
 - Identify patterns in company forms and automate the form-filling process.  
